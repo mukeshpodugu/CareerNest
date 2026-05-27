@@ -89,7 +89,8 @@ npm run dev
 
 ## 🌐 Live Demo
 
-🔗 **Live Site:** [https://job-portal-web-application-client-two.vercel.app](https://job-portal-web-application-client-two.vercel.app)  
+🔗 **Live Site:** [https://client-alpha-three-14.vercel.app](https://client-alpha-three-14.vercel.app)  
+🔗 **API Server:** [https://server-three-bay.vercel.app](https://server-three-bay.vercel.app)
 
 
 
