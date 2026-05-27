@@ -1,0 +1,35 @@
+# Dependency directories
+node_modules/
+**/node_modules/
+
+# Environment variables (contains credentials/secrets)
+.env
+**/.env
+**/.env.*
+*.env
+
+# Build outputs
+dist/
+**/dist/
+dist-ssr/
+**/dist-ssr/
+
+# Production builds
+build/
+**/build/
+
+# Vercel deployment folder
+.vercel/
+**/.vercel/
+
+# Logs
+*.log
+**/*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# System files
+.DS_Store
+Thumbs.db
