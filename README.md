@@ -15,6 +15,11 @@ It features **real-time application management**, **resume upload/download**, **
 
 ---
 
+## Live Demo
+
+🚀 Deployed Application:  
+https://client-alpha-three-14.vercel.app
+
 ## 🛠️ Tech Stack
 
 **Frontend:** React.js, Tailwind CSS  
@@ -24,7 +29,7 @@ It features **real-time application management**, **resume upload/download**, **
 **Error Tracking & Monitoring:** [Sentry](https://sentry.io/)  
 **File Storage:** Cloudinary / Local Storage (for resumes) *(update based on your implementation)*  
 **Hosting:** Render (Backend), Vercel/Netlify (Frontend)
-**Live:**(https://client-alpha-three-14.vercel.app)
+
 
 ---
 
