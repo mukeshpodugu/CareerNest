@@ -24,6 +24,7 @@ It features **real-time application management**, **resume upload/download**, **
 **Error Tracking & Monitoring:** [Sentry](https://sentry.io/)  
 **File Storage:** Cloudinary / Local Storage (for resumes) *(update based on your implementation)*  
 **Hosting:** Render (Backend), Vercel/Netlify (Frontend)
+**Live:**(https://client-alpha-three-14.vercel.app)
 
 ---
 
